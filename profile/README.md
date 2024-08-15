@@ -31,7 +31,7 @@ zcasd
 
 | 강미혜 | 안동민 | 최지원 | 조유경 | 이설희 |
 | ------------ | ------------- | ------------- | ------------- | ------------- |
-| Product Designer | App Developer | App Developer | Product Manager | Server Developer |
+| Product Designer | Client Developer | Client Developer | Product Manager | Server Developer |
 
 **🔗 MASIL 개발자들의 레포지토리**
 > 🧶 [MASIL-Client 레포지토리 가기](https://github.com/JA2024-GABOJA/gaboja-client)  
