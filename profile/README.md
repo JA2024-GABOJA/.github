@@ -33,7 +33,7 @@ zcasd
 | ------------ | ------------- | ------------- | ------------- | ------------- |
 | Product Designer | App Developer | App Developer | PM | Server Developer |
 
-**🔗Wiz 개발자들의 레포지토리**
+**🔗 MASIL 개발자들의 레포지토리**
 > 🧶 [MASIL-Client 레포지토리 가기](https://github.com/JA2024-GABOJA/gaboja-client)  
 > 🧶 [MASIL-pathfinder 레포지토리 가기](https://github.com/JA2024-GABOJA/pathfinding)    
 > 🧶 [MASIL-Server 레포지토리 가기](https://github.com/JA2024-GABOJA/gaboja-server)  
